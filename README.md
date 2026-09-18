@@ -53,7 +53,7 @@
 <div align="center">
   
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@ritverma6) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ritv.erma6?stkn=MWQ5aWlocWJ4bnlrNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-verma-56b374268/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaVerm23554) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeCraze2.0?si=YKlOy0hYoYAbC1p4) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@ritverma6) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ritv.erma6?stkn=MWQ5aWlocWJ4bnlrNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-verma-56b374268/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaVerm23554) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ritverma267?si=Np5fceLlzOJTAy62) 
 
 <!-- Snake -->
 <div align="center">
